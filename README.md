@@ -19,7 +19,7 @@
   
   영업관리, 육성지점장 (Sales Management, Branch Sales Manager)
   
-## 자격사항 / Certificate
+## 자격사항 / CERTIFICATE
 * 2022 빅데이터 분석기사 - 필기 / 한국데이터산업진흥원
 
 * 2022 ADsP (데이터분석 준전문가) / 한국데이터산업진흥원
