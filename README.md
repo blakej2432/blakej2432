@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=20BDFF&height=150&section=header&text=정명찬%20Blake%20Jeong&fontColor=b31217&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=EDE574&height=150&section=header&text=정명찬%20Blake%20Jeong&fontColor=&fontSize=50)
 
 
 데이터 분석가 / 머신러닝, AI 엔지니어 
