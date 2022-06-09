@@ -7,7 +7,7 @@
 
 ## SKILLS
 
-<img src="https://img.shields.io/badge/-Oracle SQL-orange"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Oracle SQL-orange"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/> <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=Microsoft PowerPoint&logoColor=white"/>
 ****
