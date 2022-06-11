@@ -16,3 +16,6 @@
 * 나이브 베이즈 분류기를 이용한 IT/통신기업 분류 프로젝트
 * NBA 센터 포지션 재분류(군집 분석) 프로젝트
 * 농구 선수 스탯으로 연봉 예측(회귀 분석) 프로젝트
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=EDE574&height=120&section=footer&text=&fontColor=&fontSize=50)
