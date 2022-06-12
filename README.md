@@ -17,5 +17,21 @@
 * NBA 센터 포지션 재분류(군집 분석) 프로젝트
 * 농구 선수 스탯으로 연봉 예측(회귀 분석) 프로젝트
 
+## EDUCATION
+
+* 성균관대학교 (학사) - 글로벌경제학 / 영어영문학 복수 전공 (~2021)
+* 아이티윌 - 빅데이터 분석 전문가 양성과정 31기 (~2022)
+
+## CERTIFICATES
+
+* Data / IT
+  * 빅데이터 분석기사 (필기)
+  * ADsP (데이터분석 준전문가)
+  * SQLD (SQL 개발자)
+  * 경영 빅데이터 분석사 2급
+
+* Finance / Insurance
+  * AFPK (재무설계사)
+  * 개인보험심사역 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=EDE574&height=120&section=footer&text=&fontColor=&fontSize=50)
