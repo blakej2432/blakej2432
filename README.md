@@ -12,10 +12,9 @@
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/> <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=Microsoft PowerPoint&logoColor=white"/>
 ****
 ## PROJECTS
-* [■CLICK■](https://github.com/teeth-check/teeth-check) CNN 딥러닝을 활용한 정상치아/충치 이미지 분류와 치과 추천
-* [■CLICK■](https://github.com/blakej2432/FirmClf) 나이브 베이즈 분류기를 이용한 IT/통신기업 분류
-* [■CLICK■](https://github.com/blakej2432/PositionClf) NBA 센터 포지션 재분류(군집 분석)
-* [■CLICK■](https://github.com/blakej2432/SalaryPredict) 농구 선수 스탯으로 연봉 예측(회귀 분석) - _진행중_
+* [_CNN 딥러닝을 활용한 정상치아/충치 이미지 분류와 치과 추천_](https://github.com/teeth-check/teeth-check) 
+* [_나이브 베이즈 분류기를 이용한 IT/통신기업 분류_](https://github.com/blakej2432/FirmClf)
+* [_NBA 센터 포지션 재분류(군집 분석)_](https://github.com/blakej2432/PositionClf)
 
 ## EDUCATION
 
